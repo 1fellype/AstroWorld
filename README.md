@@ -42,7 +42,7 @@ Wender Santos
 
 
 ## Acesso
-[Clique aqui para acessar! :)](https://1fellype.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar! :)](ttps://1fellype.github.io/TCC-reajustado/)
 
 ## Tecnologias
 
