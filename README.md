@@ -42,7 +42,7 @@ Wender Santos
 
 
 ## Acesso
-[Clique aqui para acessar! :)](https://1fellype.github.io/TCC-reajustado/)
+[Clique aqui para acessar! :)](https://astroworld-tcc.vercel.app/)
 
 ## Tecnologias
 
